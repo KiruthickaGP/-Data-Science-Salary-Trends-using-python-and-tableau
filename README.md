@@ -28,7 +28,7 @@ Build an interactive dashboard in Tableau to present the key findings from the a
 
 **6.Insights and Recommendations:**
 
-Summarize the findings and  and provide recommendations for individuals looking to enter the field or professionals aiming to enhance their earning potential.
+ Provide recommendations for individuals looking to enter the field or professionals aiming to enhance their earning potential.
 
 **7.Tableau Dashboard link :**
 https://public.tableau.com/app/profile/kiruthicka.gp/viz/Kiruthicka_GP_Data_science_dashboard/Data_science_salaries_dashboard?publish=yes
